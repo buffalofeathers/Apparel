@@ -1,0 +1,74 @@
+#wholepage {
+    width: 97%;
+    position: relative;
+    left: 20px;
+}
+
+#info {
+    position: relative;
+    top: -31px;
+    right: -103px;
+}
+.col {
+    z-index: 0;
+}
+
+#ckimg {
+    background-size: contain;
+    background-position: center;
+    height: 78px;
+    width: 100px;
+}
+
+#salecard {
+    height: 39px;
+}
+
+.collapsible {
+    margin-left: 811px;
+    margin-right: 50px;
+}
+
+.collapsible-header {
+    text-align: center;
+}
+
+.collapsible.popout>li.active {
+    margin: 11px 20px;
+}
+
+.yourtotal {
+    z-index: 0;
+   
+}
+
+.section {
+    right: 3px;
+}
+.checkoutdetails{
+    color: red;
+}
+
+#email{
+    border: 1px;
+}
+.checkouttable{
+    background-color: white;
+}
+
+.ccdetails{
+   border: 1px;
+    height: 200px;
+}
+.ccinfo{
+     border: 2px;
+    height: 200px;
+    line-height: 13;
+}
+#ccreveal{
+    z-index: 0;
+}
+#continueshopping{
+    color:white; 
+    z-index:0;
+}
